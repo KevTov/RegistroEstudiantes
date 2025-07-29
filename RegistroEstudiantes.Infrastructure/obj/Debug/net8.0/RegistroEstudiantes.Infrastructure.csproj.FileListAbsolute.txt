@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\bin\Debug\net8.0\RegistroEstudiantes.Infrastructure.deps.json
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\bin\Debug\net8.0\RegistroEstudiantes.Infrastructure.runtimeconfig.json
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\bin\Debug\net8.0\RegistroEstudiantes.Infrastructure.dll
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\bin\Debug\net8.0\RegistroEstudiantes.Infrastructure.pdb
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\bin\Debug\net8.0\RegistroEstudiantes.Domain.dll
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\bin\Debug\net8.0\RegistroEstudiantes.Domain.pdb
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.AssemblyInfo.cs
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\Registro.FED0875E.Up2Date
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.dll
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\refint\RegistroEstudiantes.Infrastructure.dll
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.pdb
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\RegistroEstudiantes.Infrastructure.genruntimeconfig.cache
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Infrastructure\obj\Debug\net8.0\ref\RegistroEstudiantes.Infrastructure.dll
