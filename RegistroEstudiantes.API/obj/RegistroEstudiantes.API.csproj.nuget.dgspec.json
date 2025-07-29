@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj": {}
+    "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj": {
+    "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj",
         "projectName": "RegistroEstudiantes.API",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.API\\RegistroEstudiantes.API.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.API\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj"
+              "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj"
               },
-              "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj"
+              "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj": {
+    "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
         "projectName": "RegistroEstudiantes.Domain",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -158,14 +158,14 @@
         }
       }
     },
-    "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj": {
+    "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj",
         "projectName": "RegistroEstudiantes.Infrastructure",
-        "projectPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\RegistroEstudiantes.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -182,8 +182,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj": {
-                "projectPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj"
+              "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj": {
+                "projectPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj"
               }
             }
           }

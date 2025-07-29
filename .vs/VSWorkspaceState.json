@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\RegistroEstudiantes.API",
+    "\\RegistroEstudiantes.API\\Database",
+    "\\RegistroEstudiantes.API\\Database\\Scripts",
+    "\\RegistroEstudiantes.API\\Profiles",
+    "\\RegistroEstudiantes.Domain\\Interfaces",
+    "\\RegistroEstudiantes.Infrastructure\\Repositories"
+  ],
+  "SelectedNode": "\\RegistroEstudiantes.API\\Database\\Scripts\\SeedData.sql",
+  "PreviewInSolutionExplorer": false
+}

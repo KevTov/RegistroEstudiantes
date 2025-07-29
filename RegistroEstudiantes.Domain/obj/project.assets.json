@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
       "projectName": "RegistroEstudiantes.Domain",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\RegistroEstudiantes.Domain.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\PruebaTecnicaInterrapidisimo\\RegistroEstudiantes\\RegistroEstudiantes.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",

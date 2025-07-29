@@ -9,3 +9,16 @@ C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debu
 C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\refint\RegistroEstudiantes.Domain.dll
 C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.pdb
 C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\ref\RegistroEstudiantes.Domain.dll
+C:\Users\usuario\Desktop\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.sourcelink.json
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\bin\Debug\net8.0\RegistroEstudiantes.Domain.deps.json
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\bin\Debug\net8.0\RegistroEstudiantes.Domain.dll
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\bin\Debug\net8.0\RegistroEstudiantes.Domain.pdb
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.AssemblyInfo.cs
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.sourcelink.json
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.dll
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\refint\RegistroEstudiantes.Domain.dll
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\RegistroEstudiantes.Domain.pdb
+C:\Users\usuario\Desktop\PruebaTecnicaInterrapidisimo\RegistroEstudiantes\RegistroEstudiantes.Domain\obj\Debug\net8.0\ref\RegistroEstudiantes.Domain.dll
